@@ -11,6 +11,7 @@
   "dependencies": {
     "@langchain/core": "^1.1.35",
     "@langchain/langgraph": "^1.2.5",
+    "@langchain/openrouter": "^0.1.7",
     "langchain": "^1.2.36",
     "next": "16.2.1",
     "react": "19.2.4",
